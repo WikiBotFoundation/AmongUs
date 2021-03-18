@@ -1,0 +1,8 @@
+lobby.create( lobby = true) normal
+   createLoby( joinPlayers = id)
+lobby.id( code )
+     if( private )
+         codeToJoin( All players)
+     if( online)
+          allJoin( All players)
+     joined( all_players)
